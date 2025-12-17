@@ -1,0 +1,9 @@
+# Example MySQL Configuration (YAML)
+# Copy this file to config.yml and update with your credentials
+
+host: localhost
+user: your_username
+password: your_password
+database: your_database
+port: 3306
+charset: utf8mb4
