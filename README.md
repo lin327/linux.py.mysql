@@ -1,4 +1,4 @@
-```markdown
+``````mermaid
 flowchart TB
     %% 样式定义 (兼容 GitHub 深色/浅色主题)
     classDef user fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#000
